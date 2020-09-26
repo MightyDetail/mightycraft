@@ -1,0 +1,2 @@
+# mightycraft
+MightyCraft Minecraft Server
